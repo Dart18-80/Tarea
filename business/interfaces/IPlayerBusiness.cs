@@ -1,5 +1,4 @@
 using chessAPI.models.player;
-
 namespace chessAPI.business.interfaces;
 
 public interface IPlayerBusiness<TI> 
